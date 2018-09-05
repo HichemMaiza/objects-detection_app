@@ -1,0 +1,86 @@
+# Object Detection Using Convoutional neural Network 
+
+In this tutorial I will go through the setup environement , data set creation and the Developement of an object detectection/recognition Application. 
+We will you the algorithm "you look only once" abriviyated also YOLO  
+
+## Demo
+
+[!Demo](https://www.youtube.com/watch?v=I8_RptRGrDw&feature=youtu.be)
+
+##  goals
+
+Be able to detect many objects in the same image and in real time. 
+
+##  materiels
+
+### Hardware
+
+* Packard Bell easy note Pc running Windows 10. 
+* CPU  =  2.5 hz
+* RAM  = 4GB 
+* HDD  = 500 GB 
+
+### Sotware
+
+- `python3` as programming language
+
+- `opencv` the open computer vision library  so we can play around our cams
+
+- `tensorflow` Deep Learning Framework 
+
+- `keras` API that interfaces tensorflow
+
+## Installation
+
+### Download github repository
+
+```shell
+https://github.com/deepKratos/objects-detection.git
+```
+
+### Create virtual environement
+
+- Windows users
+
+```shell
+python -m venv myenv # creates a virtual environement
+cd myenv\Scripts # change folder
+.\activate # activate environement
+```
+
+- Linux users
+
+```shell
+python -m venv myenv # creates a virtual environement 
+cd myenv\bin # change folder
+source activate # activate environement  
+```
+
+### Prepare environement / Install dependencies
+
+```shell
+pip install keras
+pip install tensorflow
+pip install opencv-python
+pip install numpy
+pip install matplotlib
+```
+
+## Run the code
+
+To execute the code:
+
+`TODO`
+
+## I'll open Source it as soon i finish with the android app . Keep in touch 
+
+## Author
+
+- **Hichem MAIZA**
+
+## Acknoldgement*
+
+*  **Google** for tensorflow
+*  **Andrew Ng** for his great courses
+*  **Siraj Raval** for his motivational videos
+*  **Intel for OpenCV**
