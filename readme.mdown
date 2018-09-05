@@ -1,7 +1,6 @@
-# Object Detection Using Convoutional neural Network 
+# Object Detection Using Convolutional neural Network 
 
-In this tutorial I will go through the setup environement , data set creation and the Developement of an object detectection/recognition Application. 
-We will you the algorithm "you look only once" abriviyated also YOLO  
+In this tutorial I will go through the setup environement, dataset creation and the developement of an object detectection/recognition app. We will use the algorithm "you look only once" YOLO ! 
 
 ## Demo
 
@@ -9,15 +8,15 @@ We will you the algorithm "you look only once" abriviyated also YOLO
 
 ##  goals
 
-Be able to detect many objects in the same image and in real time. 
+Be able to detect many objects in the same image in real time. 
 
 ##  materiels
 
 ### Hardware
 
 * Packard Bell easy note Pc running Windows 10. 
-* CPU  =  2.5 hz
-* RAM  = 4GB 
+* CPU  =  2.3 Ghz
+* RAM  = 4 Go
 * HDD  = 500 GB 
 
 ### Sotware
