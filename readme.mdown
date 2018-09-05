@@ -35,7 +35,7 @@ Be able to detect many objects in the same image and in real time.
 ### Download github repository
 
 ```shell
-https://github.com/deepKratos/objects-detection.git
+https://github.com/deepKratos/objects-detection_app.git
 ```
 
 ### Create virtual environement
